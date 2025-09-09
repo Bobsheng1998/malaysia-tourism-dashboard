@@ -1,16 +1,12 @@
-# malaysia-tourism-dashboard
+# Malaysia Tourism Dashboard
 Tourism arrivals dashboard analysis for Malaysia (Tableau Public + insights).
 
 ## Overview
-Analyzing Malaysia's **tourist arrivals performance by country and seasonality**, with a focus on monitoring progress ahead of **Visit Malaysia Year 2026.  
+Analyzing Malaysia's **tourist arrivals performance by country and seasonality**, with a focus on monitoring progress ahead of **Visit Malaysia Year 2026**.  
 Tracking arrivals is important to understand both the **market structure** and **flow of tourists**, helping policymakers and industry players evaluate performance against targets.
-
----
 
 ## Data Source
 - **Tourism Malaysia** official data
-
----
 
 ## Features
 - **Overview Dashboard**
@@ -27,8 +23,6 @@ Tracking arrivals is important to understand both the **market structure** and *
   - Tabular view of arrivals
   - Option to quickly view or download data  
 
----
-
 ## Key Insights
 - **Top 5 source markets** remain: *Singapore, Indonesia, China, Thailand, and India* — Malaysia’s traditional inbound markets.  
 - These five countries have consistently held the **top positions since 2012**.  
@@ -37,12 +31,8 @@ Tracking arrivals is important to understand both the **market structure** and *
   - **China** peaks in **July–August**  
   - **Indonesia** shows dual peaks in **July–August** and **December–January**  
 
----
-
 ## Live Dashboard
 👉 https://public.tableau.com/app/profile/qing.sheng.ong/viz/MalaysiasTouristArrivalsPerformance/TouristArrivalsPerformance#2
-
----
 
 ## Screenshots
 <img width="1279" height="959" alt="Tourist Arrivals Performance (1)" src="https://github.com/user-attachments/assets/7994dd3b-9cac-499d-8a66-dbf8fc096dbb" />
