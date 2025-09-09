@@ -2,7 +2,7 @@
 Tourism arrivals dashboard analysis for Malaysia (Tableau Public + insights).
 
 ## 📌 Overview
-Analyzing Malaysia's tourist arrivals performance by country and seasonality**, with a focus on monitoring progress ahead of **Visit Malaysia Year 2026.  
+Analyzing Malaysia's **tourist arrivals performance by country and seasonality**, with a focus on monitoring progress ahead of **Visit Malaysia Year 2026.  
 Tracking arrivals is important to understand both the **market structure** and **flow of tourists**, helping policymakers and industry players evaluate performance against targets.
 
 ---
